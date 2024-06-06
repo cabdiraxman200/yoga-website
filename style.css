@@ -213,7 +213,7 @@ font-weight: 400;
     text-align: center;
 }
 
-.video-container {
+/* .video-container {
     display: inline-block;
     
 
@@ -223,7 +223,17 @@ font-weight: 400;
     max-width: 101.390625rem;
     height: 38.75rem;
     border-radius: 25px;
-}
+} */ 
+.bg-yoga{
+    background:url("https://images.unsplash.com/photo-1524863479829-916d8e77f114?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") center /cover no-repeat;
+     height: 459.913px;;
+    
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-block: 2rem;
+ }
 .title-blog{
     text-align: center;
     margin-top: 2rem;
@@ -415,7 +425,7 @@ font-size: 1.125rem;
     height: 70%;
     flex-direction: column;
 }
-yoga-box h2{
+.yoga-box h2{
     font-size: 1.5rem;
     text-align: center;
     font-weight: 400;
