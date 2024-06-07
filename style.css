@@ -106,7 +106,7 @@ display: flex;
 }
 .btn{ 
     padding:0.9375rem 3.75rem;
-    background-color: #5f6ad4;
+    background-color: rgb(216, 82, 5);
     color: white;
     font-size:1.25rem;
     border: none;
@@ -211,19 +211,10 @@ font-weight: 400;
     color: #2b2b2b;
     font-weight: 400;
     text-align: center;
+    margin-top: 20px;
 }
 
-/* .video-container {
-    display: inline-block;
-    
 
-}
-
-.yoga-video {
-    max-width: 101.390625rem;
-    height: 38.75rem;
-    border-radius: 25px;
-} */ 
 .bg-yoga{
     background:url("https://images.unsplash.com/photo-1524863479829-916d8e77f114?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") center /cover no-repeat;
      height: 459.913px;;
